@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeingTest", "TypeingTest\TypeingTest.csproj", "{91DEB3EE-6983-4B05-B39B-DA161EB64492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DEB3EE-6983-4B05-B39B-DA161EB64492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DEB3EE-6983-4B05-B39B-DA161EB64492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DEB3EE-6983-4B05-B39B-DA161EB64492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DEB3EE-6983-4B05-B39B-DA161EB64492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF89DF6-226E-4ACF-8303-F9BA7513D446}
+	EndGlobalSection
+EndGlobal
